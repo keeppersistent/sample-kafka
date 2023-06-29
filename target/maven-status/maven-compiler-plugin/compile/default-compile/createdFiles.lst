@@ -1,0 +1,4 @@
+com\example\demo\service\Consumer.class
+com\example\demo\service\Producer.class
+com\example\demo\controller\KafkaMessageRestController.class
+com\example\demo\SampleKafkaApplication.class
